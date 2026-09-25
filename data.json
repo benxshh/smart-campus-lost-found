@@ -1,0 +1,151 @@
+[
+    {
+        "id": 1,
+        "type": "lost",
+        "name": "big bottle",
+        "category": "personal",
+        "location": "canteen",
+        "description": "big bottle with red strips",
+        "status": "active"
+    },
+    {
+        "id": 3,
+        "type": "lost",
+        "name": "charger",
+        "category": "electronics",
+        "location": "canteen",
+        "description": "white type-c charger",
+        "status": "active"
+    },
+    {
+        "id": 5,
+        "type": "found",
+        "name": "pencil",
+        "category": "stationary",
+        "location": "canteen",
+        "description": "nataraj pencil",
+        "status": "claimed",
+        "claimed_by": "Rayan"
+    },
+    {
+        "id": 8,
+        "type": "found",
+        "name": "hairband",
+        "category": "personal",
+        "location": "washroom",
+        "description": "red hairband",
+        "status": "claimed",
+        "claimed_by": "Arya"
+    },
+    {
+        "id": 9,
+        "type": "found",
+        "name": "mobile",
+        "category": "electronics",
+        "location": "canteen",
+        "description": "redmi phone",
+        "status": "claimed",
+        "claimed_by": "Ansh"
+    },
+    {
+        "id": 10,
+        "type": "lost",
+        "name": "Blue Bottle",
+        "category": "Personal",
+        "location": "Library",
+        "description": "Blue Milton Bottle",
+        "status": "active"
+    },
+    {
+        "id": 11,
+        "type": "found",
+        "name": "Blue Bottle",
+        "category": "personal",
+        "location": "library",
+        "description": "blue milton bottle",
+        "status": "claimed",
+        "claimed_by": "Hadi"
+    },
+    {
+        "id": 12,
+        "type": "lost",
+        "username": "user",
+        "name": "mouse",
+        "category": "electronics",
+        "location": "computer lab",
+        "description": "white mouse",
+        "status": "active"
+    },
+    {
+        "id": 13,
+        "type": "found",
+        "username": "student1",
+        "name": "diet coke",
+        "category": "food",
+        "location": "canteen",
+        "description": "330 ml diet coke",
+        "status": "claimed",
+        "claimed_by": "student1"
+    },
+    {
+        "id": 14,
+        "type": "found",
+        "username": "rayan",
+        "name": "charger",
+        "category": "electronics",
+        "location": "computer lab",
+        "description": "type c charger",
+        "status": "claimed",
+        "claimed_by": "student2"
+    },
+    {
+        "id": 15,
+        "type": "lost",
+        "username": "user",
+        "name": "buds",
+        "category": "personal",
+        "location": "lib",
+        "description": "ear buds",
+        "status": "active"
+    },
+    {
+        "id": 16,
+        "type": "found",
+        "username": "user",
+        "name": "buds",
+        "category": "personal",
+        "location": "lib",
+        "description": "eaa",
+        "status": "active"
+    },
+    {
+        "id": 17,
+        "type": "lost",
+        "username": "user",
+        "name": "eraser",
+        "category": "stationary",
+        "location": "library",
+        "description": "big eraser",
+        "status": "active"
+    },
+    {
+        "id": 18,
+        "type": "found",
+        "username": "user",
+        "name": "iphone",
+        "category": "electronics",
+        "location": "canteen",
+        "description": "iphone15",
+        "status": "active"
+    },
+    {
+        "id": 19,
+        "type": "lost",
+        "username": "user",
+        "name": "Bottle",
+        "category": "personal",
+        "location": "classroom",
+        "description": "big bottle with water",
+        "status": "active"
+    }
+]
