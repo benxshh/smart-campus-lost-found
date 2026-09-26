@@ -292,7 +292,7 @@ The project can be extended in the future by adding:
 
 ## Author
 
-**Rayan Khan**
+**Mohd Rayan Khan**
 
 BTech CSE — First Year
 
